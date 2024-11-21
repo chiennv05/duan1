@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">bduan1</string>
+    <string-array name="trang_thai_phong">
+        <item>Đã cho thuê</item>
+        <item>Còn trống</item>
+    </string-array>
+</resources>
